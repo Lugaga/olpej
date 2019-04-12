@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Tabasamu</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link>
+  </head>
+  <body>
+    
+      <!--Write your content here.-->
+      <header>
+        <nav>
+          <ul>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LOX7HkPSoADaxOQkLS1I7UCkhA3oZ4akyhuCUmbYprB33Ql9">
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="xbox-one-s.html">XBOX ONE S</a></li>
+            <li><a href="playstation-4.html">PLAYSTATION 4 </a></li>
+            <li><a href="about-us.html">ABOUT US</a></li>
+            <li><a href="contact-us.html">CONTACT US</a></li>
+          </ul>
+        </nav>
+      </header>
+      
+ 
+    
+<div class="container">
+  <img src="https://wallpapercave.com/wp/wp3601041.png" alt="Snow" style="width:100%;">
+
+   <div class="centered"><font color="#000000">Welcome To</font> Tabasamu</div>
+</div>  
+  <footer>
+    <p> Copyright &copy; 2019 Tabasamu Nasi</p>
+  </footer>
+   
+  </body>
+</html>
